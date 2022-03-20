@@ -51,7 +51,7 @@
    ![711234FE886728474A5326E42A06A40E.jpg][5]
    <br><br><br>
    4.点击secrets后点击add a new secret
-   
+   /
    ![3AB6B127331F5CCE552730FACDA680A3.jpg][6]
    <br><br><br>
    依次添加以下所有name以及value。<br>
