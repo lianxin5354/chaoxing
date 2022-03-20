@@ -222,9 +222,9 @@ class AutoSign(object):
 		params = {
 			'name': '',
 			'activeId': activeId,
-			'address': '中国',
+			'address': '中国福建省福州市鼓楼区洪山镇工业路547号福州大学至诚学院',
 			'uid': '',
-			'clientip': '0.0.0.0',
+			'clientip': '112.111.24.238',
 			'latitude': '-2',
 			'longitude': '-1',
 			'fid': '',
